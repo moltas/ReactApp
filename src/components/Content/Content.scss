@@ -1,0 +1,18 @@
+
+$font-color: #4d4d4d;
+$font: 'Merriweather', serif;
+
+.blog-title {
+    font-size: 3em;
+    color: $font-color;
+    font-family: $font;
+}
+
+.blog-text {
+    font-size: 1.2em;
+    color: $font-color;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    margin-top: 2rem;
+    font-family: $font;
+}
